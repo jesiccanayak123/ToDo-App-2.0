@@ -1,0 +1,1 @@
+A simple **To-Do List App** using **Flask, Jinja2, and HTML** to **add, view, update, and delete** tasks. It features **SQLite for storage**, a clean UI, and dynamic task management. Users can easily manage tasks with update and delete options. A great starting point for learning Flask, with potential for expansion! 🚀
